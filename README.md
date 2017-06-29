@@ -7,9 +7,10 @@ This file calculates the days until a given date. The date given can be in the f
 git clone https://github.com/pesanteur/Days_Until.git
 ```
 
-#Usage 
+# Usage 
 ```bash
 from days_until import days_until
+
 # Given a spelled out month and day
 days_until('November 2') 
 
